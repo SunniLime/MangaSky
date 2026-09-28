@@ -1,6 +1,6 @@
 {
   "title": "Ookiku Natchaukei Joshi no Chiisana Tatakai",
-  "description": "The unenviable daily life of a girl who can grow into a giant. Kano Hashiki has a secret. When she gets stressed, she can physically grow into a giant. When she goes for a job interview, her suit can get ripped up. When she tries to take a shower after sweating, her butt can get stuck on the door. She has to relieve her stress, or she will unavoidably become bare naked and be treated like a freak show! Can this gentle but clumsy girl survive in this stressful society? Her small-scale but earnest struggle begins today.",
+  "description": "The unenviable daily life of a girl who can grow into a giant.",
   "artist": "",
   "author": "Tsuchida Hinogi",
   "cover": "https://cdn.imgchest.com/files/d32ce027f2fb.jpg",
@@ -33,18 +33,25 @@
         "": "/proxy/api/imgchest/chapter/9p4nr2pr57n"
       }
     },
-    "07": {
-      "title": "Self Cooking (Part 1)",
-      "last_updated": "1790605999",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/5xy2kewz8yl"
-      }
-    },
     "05": {
       "title": "Ghost Stories (Part 1)",
       "last_updated": "1790605999",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqwqngxy2"
+      }
+    },
+    "06": {
+      "title": "Ghost Stories (Part 2)",
+      "last_updated": "1790606014",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lqkezo4x"
+      }
+    },
+    "07": {
+      "title": "Self Cooking (Part 1)",
+      "last_updated": "1790605999",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2kewz8yl"
       }
     },
     "08": {
@@ -54,12 +61,15 @@
         "": "/proxy/api/imgchest/chapter/5xy2kewz3yl"
       }
     },
-    "06": {
-      "title": "Ghost Stories (Part 2)",
-      "last_updated": "1790606014",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/wl7lqkezo4x"
-      }
+    "09": {
+      "title": "The Diet (Part 1)",
+      "last_updated": "1790606248",
+      "groups": {}
+    },
+    "10": {
+      "title": "The Diet (Part 2)",
+      "last_updated": "1790606248",
+      "groups": {}
     }
   }
 }
