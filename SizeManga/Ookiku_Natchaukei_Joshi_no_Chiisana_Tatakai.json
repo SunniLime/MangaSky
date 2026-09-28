@@ -14,18 +14,24 @@
     },
     "02": {
       "title": "The Scorching Heat (Part 2)",
-      "last_updated": "1790605497",
-      "groups": {}
+      "last_updated": "1790605616",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx6ve66yq"
+      }
     },
     "03": {
       "title": "Job Interview (Part 1)",
-      "last_updated": "1790605497",
-      "groups": {}
+      "last_updated": "1790605630",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92496a8684n"
+      }
     },
     "04": {
       "title": "Job Interview (Part 2)",
-      "last_updated": "1790605497",
-      "groups": {}
+      "last_updated": "1790605624",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nr2pr57n"
+      }
     }
   }
 }
