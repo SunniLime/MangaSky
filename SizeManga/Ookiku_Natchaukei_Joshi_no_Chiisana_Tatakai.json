@@ -6,10 +6,17 @@
   "cover": "https://cdn.imgchest.com/files/d32ce027f2fb.jpg",
   "chapters": {
     "01": {
-      "title": "The Scorching Heat (Part 1)",
-      "last_updated": "1790604986",
+      "title": "The Scorching Heat (Part 2)",
+      "last_updated": "1790605234",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyqwqjpdy2"
+        "": "/proxy/api/imgchest/chapter/ne7bapezm45"
+      }
+    },
+    "02": {
+      "title": "Job Interview (Part 1)",
+      "last_updated": "1790605265",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7p3qlm34o"
       }
     }
   }
