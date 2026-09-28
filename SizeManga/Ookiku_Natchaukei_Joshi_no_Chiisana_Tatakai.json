@@ -1,6 +1,6 @@
 {
   "title": "Ookiku Natchaukei Joshi no Chiisana Tatakai",
-  "description": "The unenviable daily life of a girl who can grow into a giant.",
+  "description": "The unenviable daily life of a girl who can grow into a giant. Kano Hashiki has a secret. When she gets stressed, she can physically grow into a giant. When she goes for a job interview, her suit can get ripped up. When she tries to take a shower after sweating, her butt can get stuck on the door. She has to relieve her stress, or she will unavoidably become bare naked and be treated like a freak show! Can this gentle but clumsy girl survive in this stressful society? Her small-scale but earnest struggle begins today.",
   "artist": "",
   "author": "Tsuchida Hinogi",
   "cover": "https://cdn.imgchest.com/files/d32ce027f2fb.jpg",
@@ -63,13 +63,45 @@
     },
     "09": {
       "title": "The Diet (Part 1)",
-      "last_updated": "1790606248",
-      "groups": {}
+      "last_updated": "1790606684",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92496aowv4n"
+      }
     },
     "10": {
       "title": "The Diet (Part 2)",
-      "last_updated": "1790606248",
-      "groups": {}
+      "last_updated": "1790606686",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx6vzrmyq"
+      }
+    },
+    "11": {
+      "title": "My Sister Birthday (Part 1)",
+      "last_updated": "1790606687",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nr25ww7n"
+      }
+    },
+    "12": {
+      "title": "My Sister Birthday (Part 2)",
+      "last_updated": "1790606692",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7p3qxe84o"
+      }
+    },
+    "13": {
+      "title": "The Dentist (Part 1)",
+      "last_updated": "1790606732",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wavwd34x"
+      }
+    },
+    "14": {
+      "title": "The Dentist (Part 2)",
+      "last_updated": "1790606736",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zx3aeg7j"
+      }
     }
   }
 }
